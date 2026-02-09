@@ -177,3 +177,6 @@ Steps to enable Firebase:
   - Real Android/iOS devices (recommended), or
   - Emulators/simulators on your development machine.
 - Iterate on UI, UX, and content using the mock data layer.
+
+## Video Demo
+this is the link to access the demo : https://github.com/Ms-Lina/menyaa/blob/main/Video%20Demo
