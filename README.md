@@ -54,9 +54,11 @@ Design assets and references:
 - **UI Design HTML mockup**: `menyai-ui-design.html` in the project root  
   (Open in a browser to preview visual layouts and flows.)
 - **Architecture / concept document**: `mobile/AI_Powered_Literacy_Platform_Rwanda.pdf`
-- **Figma mockups** (if available):  
-  > Add your Figma link here, for example:  
-  > `https://www.figma.com/file/xxxxxxxx/MenyAI-Designs`  
+- **Mockup** :
+
+https://app.banani.co/preview/KrfFqjP3hgrV
+  
+
 - **Circuit / system diagram**
 
 
@@ -64,10 +66,7 @@ Design assets and references:
 
 
 - - **Screenshots of app interfaces**:  
-  > Place screenshots under a folder like `docs/screenshots/` and reference them here:
-  > - `docs/screenshots/login.png`
-  > - `docs/screenshots/home.png`
-  > - `docs/screenshots/practice.png`
+  
 
 ## Environment & setup
 
