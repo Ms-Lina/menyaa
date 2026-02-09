@@ -9,9 +9,7 @@ It is designed for adults  with simple interfaces, clear progress tracking, and 
 
 ## GitHub repository
 
-> Replace the placeholder URL below with your actual repository link.
-
-- GitHub: [MenyAI repository](https://github.com/your-username/menyai)
+https://github.com/Ms-Lina/menyaa.git
 
 ## Platform overview
 
@@ -110,6 +108,7 @@ pnpm install
 From the **repo root**:
 
 ```bash
+pnpm install
 pnpm start
 ```
 
@@ -117,7 +116,6 @@ Or from **`mobile/`**:
 
 ```bash
 cd mobile
-npm install -g pnpm
 pnpm install
 pnpm start
 ```
