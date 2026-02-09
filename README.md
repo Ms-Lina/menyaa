@@ -57,9 +57,13 @@ Design assets and references:
 - **Figma mockups** (if available):  
   > Add your Figma link here, for example:  
   > `https://www.figma.com/file/xxxxxxxx/MenyAI-Designs`  
-- **Circuit / system diagram** (if available):  
-  > Add a link or image path here (e.g. `docs/architecture/menyai-system-diagram.png`).
-- **Screenshots of app interfaces**:  
+- **Circuit / system diagram**
+
+
+<img width="782" height="2584" alt="circuit diagram" src="https://github.com/user-attachments/assets/4a279c27-dc58-4ed8-8c52-e45247f40227" />
+
+
+- - **Screenshots of app interfaces**:  
   > Place screenshots under a folder like `docs/screenshots/` and reference them here:
   > - `docs/screenshots/login.png`
   > - `docs/screenshots/home.png`
