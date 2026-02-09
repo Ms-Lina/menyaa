@@ -68,8 +68,8 @@ https://app.banani.co/preview/KrfFqjP3hgrV
 - - **Screenshots of app interfaces**:  
   <img width="1010" height="1084" alt="Screenshot 2026-02-09 163012" src="https://github.com/user-attachments/assets/6350257a-cdf2-47b7-9dff-8122448cd5fe" />
   <img width="950" height="1066" alt="Screenshot 2026-02-09 163109" src="https://github.com/user-attachments/assets/67fc04d9-e969-4e3c-94dd-c0f007ef62c5" />
-<img width="950" height="1066" alt="Screenshot 2026-02-09 163109" src="https://github.com/user-attachments/assets/67fc04d9-e969-4e3c-94dd-c0f007ef62c5" />
-
+  <img width="991" height="1079" alt="Screenshot 2026-02-09 163151" src="https://github.com/user-attachments/assets/d7a79caf-0462-4417-9d74-5cabf7483155" />
+  <img width="958" height="1090" alt="Screenshot 2026-02-09 163243" src="https://github.com/user-attachments/assets/6e507aad-3d1a-4923-b519-c5701ac3f9ba" />
 
 
 ## Environment & setup
